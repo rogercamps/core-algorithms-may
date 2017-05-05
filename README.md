@@ -1,3 +1,20 @@
+# Setup instructions
+Clone the repo: link
+
+Install dependencies:
+```
+$ npm Install
+```
+Run tests:
+```
+$ npm test
+```
+
+<!-- To run the linter:
+```
+$ npm run lint
+``` -->
+
 -#sour-drongo
 -Roger Camps
 -Goal 158
